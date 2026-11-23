@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+__pycache__/
+*.img
+.DS_Store
+.work/
